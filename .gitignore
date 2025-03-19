@@ -12,10 +12,5 @@ Pipfile.lock
 
 # Fichiers Django
 *.log
-*.pot
-*.py[co]
 db.sqlite3
 
-# Dossiers spécifiques à l'IDE
-.vscode/
-.idea/
