@@ -1,0 +1,21 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Base de données
+*.sqlite3
+
+# Environnements virtuels
+venv/
+env/
+Pipfile.lock
+
+# Fichiers Django
+*.log
+*.pot
+*.py[co]
+db.sqlite3
+
+# Dossiers spécifiques à l'IDE
+.vscode/
+.idea/
